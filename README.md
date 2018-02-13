@@ -2,7 +2,16 @@
 
 > Example project using Jest + vue-test-utils together
 
-This is based on the `vue-cli` `webpack-simple` template. Test-specific changes include:
+Just Want to Get Started?
+
+``` bash
+git clone https://github.com/hchiam/vue-test-utils-jest-example.git
+cd vue-test-utils-jest-example
+npm install
+npm t
+```
+
+This project is based on the `vue-cli` `webpack-simple` template. Test-specific changes include:
 
 ### Additional Dependencies
 
