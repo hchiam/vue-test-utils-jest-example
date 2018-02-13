@@ -1,6 +1,6 @@
 # vue-test-utils-jest-example
 
-> Example project using Jest + vue-test-utils together
+> Example project with .vue files, using vue-test-utils and Jest to run unit tests.
 
 Just Want to Get Started?
 
